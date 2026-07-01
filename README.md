@@ -28,3 +28,19 @@ Consistency compounds. Instead of solving problems and forgetting them, this rep
 
 
 Auto-synced with LeetHub — solve on LeetCode, it shows up here.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
