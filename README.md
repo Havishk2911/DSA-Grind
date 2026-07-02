@@ -34,6 +34,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Havishk2911/DSA-Grind/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -43,4 +44,8 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Havishk2911/DSA-Grind/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
