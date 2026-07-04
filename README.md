@@ -36,11 +36,13 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | ------- |
 | [0001-two-sum](https://github.com/Havishk2911/DSA-Grind/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
