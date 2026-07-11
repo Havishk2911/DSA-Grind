@@ -66,4 +66,16 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
