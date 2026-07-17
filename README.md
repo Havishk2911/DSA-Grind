@@ -72,10 +72,12 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Havishk2911/DSA-Grind/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Havishk2911/DSA-Grind/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
