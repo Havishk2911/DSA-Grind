@@ -42,6 +42,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Havishk2911/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0075-sort-colors](https://github.com/Havishk2911/DSA-Grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
