@@ -44,6 +44,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0217-contains-duplicate](https://github.com/Havishk2911/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,8 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Havishk2911/DSA-Grind/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
