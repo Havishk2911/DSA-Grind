@@ -91,6 +91,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Havishk2911/DSA-Grind/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Havishk2911/DSA-Grind/tree/master/0225-implement-stack-using-queues) |
 | [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -112,4 +113,12 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Havishk2911/DSA-Grind/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Havishk2911/DSA-Grind/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
