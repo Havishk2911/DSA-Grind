@@ -45,6 +45,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Havishk2911/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Havishk2911/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
