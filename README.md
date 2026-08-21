@@ -45,6 +45,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Havishk2911/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
@@ -55,6 +56,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0088-merge-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Havishk2911/DSA-Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Havishk2911/DSA-Grind/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0169-majority-element](https://github.com/Havishk2911/DSA-Grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Havishk2911/DSA-Grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
