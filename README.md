@@ -80,6 +80,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0066-plus-one](https://github.com/Havishk2911/DSA-Grind/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Havishk2911/DSA-Grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
