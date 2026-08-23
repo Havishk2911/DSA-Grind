@@ -79,6 +79,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | ------- |
 | [0066-plus-one](https://github.com/Havishk2911/DSA-Grind/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Havishk2911/DSA-Grind/tree/master/0268-missing-number) |
+| [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Havishk2911/DSA-Grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -96,6 +97,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Havishk2911/DSA-Grind/tree/master/0020-valid-parentheses) |
+| [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Havishk2911/DSA-Grind/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -144,4 +146,12 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Havishk2911/DSA-Grind/tree/master/0118-pascals-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
