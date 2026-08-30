@@ -48,6 +48,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [0724-find-pivot-index](https://github.com/Havishk2911/DSA-Grind/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Havishk2911/DSA-Grind/tree/master/0977-squares-of-a-sorted-array) |
 | [1872-stone-game-viii](https://github.com/Havishk2911/DSA-Grind/tree/main/1872-stone-game-viii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Havishk2911/DSA-Grind/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Havishk2911/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
@@ -154,6 +155,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Havishk2911/DSA-Grind/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
