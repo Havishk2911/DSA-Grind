@@ -51,6 +51,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Havishk2911/DSA-Grind/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Havishk2911/DSA-Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Havishk2911/DSA-Grind/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Auto-synced with LeetHub — solve on LeetCode, it shows up here.
 | [1927-sum-game](https://github.com/Havishk2911/DSA-Grind/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Havishk2911/DSA-Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Havishk2911/DSA-Grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Havishk2911/DSA-Grind/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
